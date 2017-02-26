@@ -1,0 +1,26 @@
+body{
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+div > div{
+    border: 1px solid #aaa;
+    padding: 5px;
+}
+.menu{
+    width: 200px;
+    height: 60px;
+    background-color: aliceblue;
+    position: absolute;
+    border: 1px solid #aaa;
+    display: none;
+}
+span{
+    display: block;
+    padding: 2px 0px 2px 30px;
+}
