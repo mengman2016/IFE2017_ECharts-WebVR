@@ -8,9 +8,9 @@ body{
     display: flex;
     justify-content: space-between;
 }
-div > div{
+.box > div{
     border: 1px solid #aaa;
-    padding: 5px;
+    padding: 100px;
 }
 .menu{
     width: 200px;

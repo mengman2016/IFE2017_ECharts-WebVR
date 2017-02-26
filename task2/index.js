@@ -23,11 +23,15 @@ addEvent(body, "contextmenu", function (event) {    //右键事件
         var windowWidth = window.innerWidth;
         showMenu(event,windowHeight,windowWidth);
     }
+    if (target.parentNode.className == "menu"){
+        event.preventDefault();
+        alert(target.innerHTML);
+    }
 });
 
 addEvent(body, "click", function (event) {      //左键事件
     var target = event.target||event.srcElement;
-    if (target.tagName.toLowerCase() == "span"){    //点击菜单弹出对话框
+    if (target.parentNode.className == "menu"){    //点击菜单弹出对话框
         alert(target.innerHTML);
     }
     menu.style.display = "none";                    //点击其他地方菜单消失
