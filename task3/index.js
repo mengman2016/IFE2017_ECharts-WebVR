@@ -2,7 +2,8 @@
  * Created by Mengman on 2017/2/26.
  */
 var phonePattern = /^(13\d|15\d|188|189)\d{8}$/;        //13，15开头或者188,189开头,总共11位
-var wordPattern = /\b(\w+)\b\s+\b\1\b/;
+var wordPattern = /(?:^|\s)(\w+(?:-\w+)*)\s+\1(?=\s|$)/;
+//开头或以空格开头 字母中间可以有- 但不能以-开头或结尾
 var btn1 = document.getElementsByTagName("button")[0];
 var btn2 = document.getElementsByTagName("button")[1];
 var span = document.querySelectorAll("span");
