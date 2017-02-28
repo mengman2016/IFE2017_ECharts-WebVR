@@ -3,42 +3,36 @@
     padding: 0;
     font-size: 14px;
 }
-#content{
-    margin: 50px 0 0 50px;
-    border: 1px solid #666;
+.content{
+    margin: 50px auto;
     width: 600px;
-    padding: 20px;
+    height: auto;
+}
+.box{
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+label{
+    background-color: #eeeeee;
+    border-bottom: 1px solid #aaaaaa;
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 20px;
 }
 input{
     display: none;
 }
-label{
-    width: 550px;
-    height: 60px;
-    border: 1px solid #aaa;
-    border-radius: 5px;
-    background-color: #eee;
-    display: block;
-    line-height: 60px;
-    padding: 0 20px;
-    margin-top: 5px;
+input+div>p{
+    line-height: 24px;
 }
-p{
-    border: 1px solid #aaa;
-    width: 550px;
-    padding: 10px 20px 10px 20px;
-    border-bottom-right-radius: 5px;
-    border-bottom-left-radius: 5px;
+input+div{
+    height: 0;
+    transition: height 1s;
     overflow: hidden;
-    display: none;
+    padding: 0 20px;
 }
-input:checked+label{
-    border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0;
-}
-input:checked+label+p{
-    display: flex;
-}
-label:hover{
-    text-decoration:underline;
+input:checked+div{
+    height: 80px;
 }
