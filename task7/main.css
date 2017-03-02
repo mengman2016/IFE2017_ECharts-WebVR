@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.camera{
+    perspective: 1200px;
+    transform-style: preserve-3d;
+    perspective-origin:50% 50%;
+    position: relative;
+    width: 400px;
+    height: 300px;
+    margin: 200px auto;
+}
+.stage{
+    transform-style: preserve-3d;
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    animation:autoMove 10s linear infinite;
+}
+.pic>img{
+    width: 400px;
+    height: 300px;
+}
+.pic{
+    position: absolute;
+}
+.pic{
+    transform: translateX(0px) translateZ(516px) rotateY(0deg);
+}
+.pic2{
+    transform: translateX(450px) translateZ(258px) rotateY(60deg);
+}
+.pic3{
+    transform: translateX(450px) translateZ(-258px) rotateY(120deg);
+}
+.pic4{
+    transform: translateX(0px) translateZ(-516px) rotateY(180deg);
+}
+.pic5{
+    transform: translateX(-450px) translateZ(-258px) rotateY(240deg);
+}
+.pic6{
+    transform: translateX(-450px) translateZ(258px) rotateY(300deg);
+}
+@keyframes autoMove {
+    0%{transform:rotateY(-0deg)}
+    10%{transform:rotateY(-0deg)}
+    16.6%{transform:rotateY(-60deg)}
+    26.6%{transform:rotateY(-60deg)}
+    33.3%{transform:rotateY(-120deg)}
+    43.3%{transform:rotateY(-120deg)}
+    50%{transform:rotateY(-180deg)}
+    60%{transform:rotateY(-180deg)}
+    66.6%{transform:rotateY(-240deg)}
+    76.6%{transform:rotateY(-240deg)}
+    83.2%{transform:rotateY(-300deg)}
+    93.2%{transform:rotateY(-300deg)}
+    100%{transform:rotateY(-360deg)}
+}
