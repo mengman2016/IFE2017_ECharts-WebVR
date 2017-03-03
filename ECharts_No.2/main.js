@@ -30,6 +30,12 @@ var option = {
     },
         source
     ],
+    tooltip:{
+        trigger:'axis',
+        axisPointer:{
+            type:'line'
+        }
+    },
     grid:{
         top:180,    //图表位置
         left:50,
@@ -41,9 +47,12 @@ var option = {
         top:130,
         left:50
     },
-    xAxis:{
+    xAxis:[{
         axisLine:{
-            onZero:false    //不对0
+            onZero:false,   //不对0
+            lineStyle:{
+                width:2
+            }
         },
         axisTick:{
             inside:true,    //x轴标记向上
@@ -58,6 +67,15 @@ var option = {
         data:['2006','07','08','09','10','11','12','13','14','15'],
         type:"category",
     },
+        {
+            axisLine:{
+                lineStyle:{
+                    color:'rgb(233,98,90)',
+                    width:2
+                }
+            }
+        }
+    ],
     yAxis:{
         position:"right",
         type:"value",
@@ -67,8 +85,8 @@ var option = {
         },
         splitLine:{
             lineStyle:{     //横向分隔线颜色
-                color:['rgb(240,80,76)','rgb(255,255,255)','rgb(255,255,255)','rgb(255,255,255)','transparent'],
-                width:3
+                color:['rgb(255,255,255)'],
+                width:2
             }
         },
         axisLabel:{
@@ -94,7 +112,7 @@ var option = {
             name:'GDP',
             type:'bar',
             data:[0.8,3.3,1.8,2.2,2.5,1.9,2.7,0.5,0.9,1.0],
-            barWidth:16
+            barWidth:16,
         }
     ],
     color:['rgb(51,116,138)','rgb(51,182,227)']
