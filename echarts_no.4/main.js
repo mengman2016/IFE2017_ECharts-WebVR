@@ -102,46 +102,50 @@ let option = {
 };
 myChart.setOption(option);
 
-myChart.showLoading();
-let xhr = new XMLHttpRequest();
-xhr.open('get','data/ADM.json',true);
-xhr.send(null);
-xhr.onreadystatechange = function () {
-    if (xhr.readyState == 4){
-        if ((xhr.status >= 200&&xhr.status<=300)||xhr.status==304){
-            let data = JSON.parse(xhr.responseText);
-            //todo 处理一下数据单个公司的
-            let resultData = splitData(data);
+function init(company) {
+    myChart.showLoading();
+    let xhr = new XMLHttpRequest();
+    xhr.open('get','data/'+company+'.json',true);
+    xhr.send(null);
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState == 4){
+            if ((xhr.status >= 200&&xhr.status<=300)||xhr.status==304){
+                let data = JSON.parse(xhr.responseText);
+                //todo 处理一下数据单个公司的
+                let resultData = splitData(data);
 
-            myChart.hideLoading();
-            myChart.setOption({
-                title:{text:"Company "+resultData.name},
-                xAxis:[{data:resultData.Date,},{data:resultData.Date,gridIndex:1}],
-                series:[{
-                    name:'日K',
-                    data:resultData.value,
-                },{
-                    name:"MA5",
-                    data:calculateMA(5,resultData),
-                },{
-                    name:"MA10",
-                    data:calculateMA(10,resultData),
-                },{
-                    name:"MA20",
-                    data:calculateMA(20,resultData),
-                },{
-                    name:"MA30",
-                    data:calculateMA(30,resultData),
-                },{
-                    name:'volume',
-                    data:resultData.volume,
-                    xAxisIndex:1,
-                    yAxisIndex:1,
-                }]
-            });
+                myChart.hideLoading();
+                myChart.setOption({
+                    title:{text:"Company "+resultData.name},
+                    xAxis:[{data:resultData.Date,},{data:resultData.Date,gridIndex:1}],
+                    series:[{
+                        name:'日K',
+                        data:resultData.value,
+                    },{
+                        name:"MA5",
+                        data:calculateMA(5,resultData),
+                    },{
+                        name:"MA10",
+                        data:calculateMA(10,resultData),
+                    },{
+                        name:"MA20",
+                        data:calculateMA(20,resultData),
+                    },{
+                        name:"MA30",
+                        data:calculateMA(30,resultData),
+                    },{
+                        name:'volume',
+                        data:resultData.volume,
+                        xAxisIndex:1,
+                        yAxisIndex:1,
+                    }]
+                });
+            }
         }
-    }
-};
+    };
+}
+
+init("ADM");
 
 function splitData(data) {
     let Date = [],      //时间
@@ -181,3 +185,10 @@ function calculateMA(dayCount, data) {
     }
     return result;
 }
+
+addEventListener("click", function (event) {
+    if (event.target.tagName.toLowerCase() == "button"){
+        let company = event.target.value;
+        init(company);
+    }
+}, false);
