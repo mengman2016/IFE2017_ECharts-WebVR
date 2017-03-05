@@ -111,6 +111,7 @@ function init(company, dayNum) {    //多少天
             if ((xhr.status >= 200&&xhr.status<=300)||xhr.status==304){
                 let data = JSON.parse(xhr.responseText);
                 //todo 处理一下数据单个公司的
+                if (dayNum == data.length){clearInterval(autoUpdate)}   //当没有新数据，停止更新
                 let resultData = splitData(data, dayNum);
 
                 myChart.setOption({
@@ -144,7 +145,7 @@ function init(company, dayNum) {    //多少天
 }
 let day = 30;   //显示30天
 init("A", day);
-setInterval(function () {
+let autoUpdate = setInterval(function () {
     day++;
     init('A', day);
 },200);
