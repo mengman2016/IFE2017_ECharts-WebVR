@@ -1,0 +1,2206 @@
+[{
+  "Date": 20090821,
+  "Ticker": "ADM",
+  "Open": 28.12,
+  "High": 28.75,
+  "Low": 28.07,
+  "Close": 28.67,
+  "Volume": 40472
+},
+{
+"Date": 20090824,
+"Ticker": "ADM",
+"Open": 28.8,
+"High": 29.5,
+"Low": 28.2,
+"Close": 28.39,
+"Volume": 59279
+},
+{
+"Date": 20090825,
+"Ticker": "ADM",
+"Open": 28.37,
+"High": 28.63,
+"Low": 27.7,
+"Close": 27.74,
+"Volume": 58042
+},
+{
+"Date": 20090826,
+"Ticker": "ADM",
+"Open": 27.63,
+"High": 28.18,
+"Low": 27.57,
+"Close": 27.9,
+"Volume": 72002
+},
+{
+"Date": 20090827,
+"Ticker": "ADM",
+"Open": 27.75,
+"High": 28.33,
+"Low": 27.6,
+"Close": 28.21,
+"Volume": 41460
+},
+{
+"Date": 20090828,
+"Ticker": "ADM",
+"Open": 28.54,
+"High": 28.98,
+"Low": 28.33,
+"Close": 28.62,
+"Volume": 62807
+},
+{
+"Date": 20090831,
+"Ticker": "ADM",
+"Open": 28.4,
+"High": 28.89,
+"Low": 28.14,
+"Close": 28.83,
+"Volume": 56446
+},
+{
+"Date": 20090901,
+"Ticker": "ADM",
+"Open": 28.67,
+"High": 29.05,
+"Low": 27.93,
+"Close": 28.03,
+"Volume": 51395
+},
+{
+"Date": 20090902,
+"Ticker": "ADM",
+"Open": 27.97,
+"High": 28.17,
+"Low": 27.52,
+"Close": 27.56,
+"Volume": 55985
+},
+{
+"Date": 20090903,
+"Ticker": "ADM",
+"Open": 27.74,
+"High": 28.07,
+"Low": 27.51,
+"Close": 28.02,
+"Volume": 44048
+},
+{
+"Date": 20090904,
+"Ticker": "ADM",
+"Open": 27.95,
+"High": 28.91,
+"Low": 27.9,
+"Close": 28.91,
+"Volume": 54626
+},
+{
+"Date": 20090909,
+"Ticker": "ADM",
+"Open": 28.79,
+"High": 28.92,
+"Low": 28.45,
+"Close": 28.7,
+"Volume": 40017
+},
+{
+"Date": 20090910,
+"Ticker": "ADM",
+"Open": 28.5,
+"High": 29.04,
+"Low": 28.31,
+"Close": 29.01,
+"Volume": 39310
+},
+{
+"Date": 20090911,
+"Ticker": "ADM",
+"Open": 28.83,
+"High": 29.31,
+"Low": 28.83,
+"Close": 29.02,
+"Volume": 37684
+},
+{
+"Date": 20090914,
+"Ticker": "ADM",
+"Open": 28.72,
+"High": 28.96,
+"Low": 28.56,
+"Close": 28.65,
+"Volume": 38652
+},
+{
+"Date": 20090915,
+"Ticker": "ADM",
+"Open": 28.68,
+"High": 29.27,
+"Low": 28.42,
+"Close": 29.16,
+"Volume": 52891
+},
+{
+"Date": 20090916,
+"Ticker": "ADM",
+"Open": 29.33,
+"High": 29.5,
+"Low": 28.99,
+"Close": 29.42,
+"Volume": 63686
+},
+{
+"Date": 20090917,
+"Ticker": "ADM",
+"Open": 29.38,
+"High": 29.42,
+"Low": 28.46,
+"Close": 28.73,
+"Volume": 60232
+},
+{
+"Date": 20090918,
+"Ticker": "ADM",
+"Open": 28.85,
+"High": 29.36,
+"Low": 28.7,
+"Close": 29.12,
+"Volume": 61877
+},
+{
+"Date": 20090921,
+"Ticker": "ADM",
+"Open": 28.75,
+"High": 28.97,
+"Low": 28.24,
+"Close": 28.85,
+"Volume": 50555
+},
+{
+"Date": 20090922,
+"Ticker": "ADM",
+"Open": 28.98,
+"High": 29,
+"Low": 28.6,
+"Close": 28.9,
+"Volume": 30112
+},
+{
+"Date": 20090923,
+"Ticker": "ADM",
+"Open": 29.02,
+"High": 29.02,
+"Low": 28.49,
+"Close": 28.52,
+"Volume": 34086
+},
+{
+"Date": 20090924,
+"Ticker": "ADM",
+"Open": 28.55,
+"High": 28.7,
+"Low": 27.89,
+"Close": 27.97,
+"Volume": 42360
+},
+{
+"Date": 20090925,
+"Ticker": "ADM",
+"Open": 27.99,
+"High": 28.01,
+"Low": 27.05,
+"Close": 27.31,
+"Volume": 75836
+},
+{
+"Date": 20090928,
+"Ticker": "ADM",
+"Open": 27.36,
+"High": 27.76,
+"Low": 27.21,
+"Close": 27.69,
+"Volume": 37747
+},
+{
+"Date": 20090929,
+"Ticker": "ADM",
+"Open": 27.77,
+"High": 28.33,
+"Low": 27.59,
+"Close": 28.2,
+"Volume": 56266
+},
+{
+"Date": 20090930,
+"Ticker": "ADM",
+"Open": 28.89,
+"High": 29.3,
+"Low": 28.54,
+"Close": 29.22,
+"Volume": 99808
+},
+{
+"Date": 20091001,
+"Ticker": "ADM",
+"Open": 29.05,
+"High": 29.21,
+"Low": 28.68,
+"Close": 28.86,
+"Volume": 52167
+},
+{
+"Date": 20091002,
+"Ticker": "ADM",
+"Open": 28.72,
+"High": 28.78,
+"Low": 27.66,
+"Close": 28.43,
+"Volume": 38555
+},
+{
+"Date": 20091005,
+"Ticker": "ADM",
+"Open": 28.42,
+"High": 28.79,
+"Low": 27.88,
+"Close": 28.76,
+"Volume": 41192
+},
+{
+"Date": 20091006,
+"Ticker": "ADM",
+"Open": 28.89,
+"High": 29.5,
+"Low": 28.84,
+"Close": 29.47,
+"Volume": 54684
+},
+{
+"Date": 20091007,
+"Ticker": "ADM",
+"Open": 29.42,
+"High": 29.5,
+"Low": 29.12,
+"Close": 29.5,
+"Volume": 28975
+},
+{
+"Date": 20091008,
+"Ticker": "ADM",
+"Open": 29.63,
+"High": 29.82,
+"Low": 29.31,
+"Close": 29.72,
+"Volume": 41554
+},
+{
+"Date": 20091009,
+"Ticker": "ADM",
+"Open": 29.69,
+"High": 29.89,
+"Low": 29.26,
+"Close": 29.74,
+"Volume": 31824
+},
+{
+"Date": 20091012,
+"Ticker": "ADM",
+"Open": 29.76,
+"High": 30,
+"Low": 29.67,
+"Close": 29.85,
+"Volume": 26685
+},
+{
+"Date": 20091013,
+"Ticker": "ADM",
+"Open": 29.69,
+"High": 29.99,
+"Low": 29.41,
+"Close": 29.95,
+"Volume": 34207
+},
+{
+"Date": 20091014,
+"Ticker": "ADM",
+"Open": 30.09,
+"High": 30.18,
+"Low": 29.88,
+"Close": 29.91,
+"Volume": 43558
+},
+{
+"Date": 20091015,
+"Ticker": "ADM",
+"Open": 29.86,
+"High": 30.06,
+"Low": 29.54,
+"Close": 29.66,
+"Volume": 53002
+},
+{
+"Date": 20091016,
+"Ticker": "ADM",
+"Open": 29.5,
+"High": 30.15,
+"Low": 29.03,
+"Close": 29.99,
+"Volume": 56594
+},
+{
+"Date": 20091019,
+"Ticker": "ADM",
+"Open": 30.08,
+"High": 30.83,
+"Low": 29.95,
+"Close": 30.69,
+"Volume": 40185
+},
+{
+"Date": 20091020,
+"Ticker": "ADM",
+"Open": 30.67,
+"High": 30.92,
+"Low": 30.3,
+"Close": 30.61,
+"Volume": 52885
+},
+{
+"Date": 20091021,
+"Ticker": "ADM",
+"Open": 30.47,
+"High": 31.63,
+"Low": 30.47,
+"Close": 31.35,
+"Volume": 61489
+},
+{
+"Date": 20091022,
+"Ticker": "ADM",
+"Open": 31.32,
+"High": 31.33,
+"Low": 30.53,
+"Close": 31.08,
+"Volume": 52718
+},
+{
+"Date": 20091023,
+"Ticker": "ADM",
+"Open": 31.15,
+"High": 31.33,
+"Low": 30.34,
+"Close": 30.66,
+"Volume": 38576
+},
+{
+"Date": 20091026,
+"Ticker": "ADM",
+"Open": 30.63,
+"High": 31.16,
+"Low": 30.31,
+"Close": 30.38,
+"Volume": 41306
+},
+{
+"Date": 20091027,
+"Ticker": "ADM",
+"Open": 30.56,
+"High": 31.04,
+"Low": 29.93,
+"Close": 30.1,
+"Volume": 41209
+},
+{
+"Date": 20091028,
+"Ticker": "ADM",
+"Open": 29.71,
+"High": 30.48,
+"Low": 29.58,
+"Close": 29.58,
+"Volume": 41801
+},
+{
+"Date": 20091105,
+"Ticker": "ADM",
+"Open": 32.28,
+"High": 32.74,
+"Low": 32.28,
+"Close": 32.43,
+"Volume": 51289
+},
+{
+"Date": 20091106,
+"Ticker": "ADM",
+"Open": 32.16,
+"High": 32.65,
+"Low": 32.05,
+"Close": 32.39,
+"Volume": 43174
+},
+{
+"Date": 20091109,
+"Ticker": "ADM",
+"Open": 32.63,
+"High": 32.94,
+"Low": 32.27,
+"Close": 32.46,
+"Volume": 58567
+},
+{
+"Date": 20091110,
+"Ticker": "ADM",
+"Open": 32.3,
+"High": 33,
+"Low": 32.24,
+"Close": 32.61,
+"Volume": 62045
+},
+{
+"Date": 20091111,
+"Ticker": "ADM",
+"Open": 32.79,
+"High": 32.86,
+"Low": 31.96,
+"Close": 32.16,
+"Volume": 56271
+},
+{
+"Date": 20091112,
+"Ticker": "ADM",
+"Open": 32.11,
+"High": 32.6,
+"Low": 32.07,
+"Close": 32.25,
+"Volume": 53077
+},
+{
+"Date": 20091113,
+"Ticker": "ADM",
+"Open": 32.27,
+"High": 32.65,
+"Low": 32.18,
+"Close": 32.51,
+"Volume": 35664
+},
+{
+"Date": 20091116,
+"Ticker": "ADM",
+"Open": 32.7,
+"High": 32.97,
+"Low": 31.89,
+"Close": 31.93,
+"Volume": 75224
+},
+{
+"Date": 20091117,
+"Ticker": "ADM",
+"Open": 31.81,
+"High": 32.355,
+"Low": 31.645,
+"Close": 32.2,
+"Volume": 49786
+},
+{
+"Date": 20091118,
+"Ticker": "ADM",
+"Open": 32.24,
+"High": 32.55,
+"Low": 31.86,
+"Close": 31.92,
+"Volume": 48073
+},
+{
+"Date": 20091119,
+"Ticker": "ADM",
+"Open": 31.78,
+"High": 31.94,
+"Low": 31.35,
+"Close": 31.57,
+"Volume": 56590
+},
+{
+"Date": 20091120,
+"Ticker": "ADM",
+"Open": 31.43,
+"High": 31.7542,
+"Low": 31.26,
+"Close": 31.62,
+"Volume": 39271
+},
+{
+"Date": 20091123,
+"Ticker": "ADM",
+"Open": 31.92,
+"High": 32.17,
+"Low": 31.77,
+"Close": 31.85,
+"Volume": 45367
+},
+{
+"Date": 20091124,
+"Ticker": "ADM",
+"Open": 31.85,
+"High": 32.05,
+"Low": 31.2,
+"Close": 31.26,
+"Volume": 40782
+},
+{
+"Date": 20091125,
+"Ticker": "ADM",
+"Open": 31.35,
+"High": 31.53,
+"Low": 31.23,
+"Close": 31.4,
+"Volume": 26666
+},
+{
+"Date": 20091127,
+"Ticker": "ADM",
+"Open": 30.51,
+"High": 30.86,
+"Low": 30.15,
+"Close": 30.65,
+"Volume": 27034
+},
+{
+"Date": 20091130,
+"Ticker": "ADM",
+"Open": 30.51,
+"High": 30.85,
+"Low": 30.03,
+"Close": 30.81,
+"Volume": 56514
+},
+{
+"Date": 20091201,
+"Ticker": "ADM",
+"Open": 31.25,
+"High": 31.96,
+"Low": 31.08,
+"Close": 31.66,
+"Volume": 66665
+},
+{
+"Date": 20091202,
+"Ticker": "ADM",
+"Open": 31.005,
+"High": 31.93,
+"Low": 30.9,
+"Close": 31.6,
+"Volume": 36740
+},
+{
+"Date": 20091203,
+"Ticker": "ADM",
+"Open": 31.57,
+"High": 31.82,
+"Low": 31.27,
+"Close": 31.34,
+"Volume": 34490
+},
+{
+"Date": 20091204,
+"Ticker": "ADM",
+"Open": 31.65,
+"High": 31.98,
+"Low": 31.19,
+"Close": 31.59,
+"Volume": 46270
+},
+{
+"Date": 20091207,
+"Ticker": "ADM",
+"Open": 31.51,
+"High": 31.69,
+"Low": 31,
+"Close": 31.06,
+"Volume": 35158
+},
+{
+"Date": 20091208,
+"Ticker": "ADM",
+"Open": 30.79,
+"High": 31.04,
+"Low": 30.41,
+"Close": 30.81,
+"Volume": 53180
+},
+{
+"Date": 20091209,
+"Ticker": "ADM",
+"Open": 30.72,
+"High": 30.8499,
+"Low": 30.31,
+"Close": 30.48,
+"Volume": 38889
+},
+{
+"Date": 20091210,
+"Ticker": "ADM",
+"Open": 30.56,
+"High": 30.98,
+"Low": 30.19,
+"Close": 30.51,
+"Volume": 49446
+},
+{
+"Date": 20091211,
+"Ticker": "ADM",
+"Open": 30.71,
+"High": 31.03,
+"Low": 30.4,
+"Close": 30.49,
+"Volume": 44774
+},
+{
+"Date": 20091214,
+"Ticker": "ADM",
+"Open": 30.7,
+"High": 30.81,
+"Low": 29.91,
+"Close": 30.23,
+"Volume": 63323
+},
+{
+"Date": 20091215,
+"Ticker": "ADM",
+"Open": 30.32,
+"High": 31,
+"Low": 30.2,
+"Close": 30.64,
+"Volume": 51126
+},
+{
+"Date": 20091216,
+"Ticker": "ADM",
+"Open": 31.03,
+"High": 31.7,
+"Low": 30.72,
+"Close": 31.24,
+"Volume": 51493
+},
+{
+"Date": 20091217,
+"Ticker": "ADM",
+"Open": 31.05,
+"High": 31.23,
+"Low": 30.5,
+"Close": 30.54,
+"Volume": 37606
+},
+{
+"Date": 20091218,
+"Ticker": "ADM",
+"Open": 30.85,
+"High": 30.85,
+"Low": 30.23,
+"Close": 30.55,
+"Volume": 50042
+},
+{
+"Date": 20091221,
+"Ticker": "ADM",
+"Open": 30.75,
+"High": 31.24,
+"Low": 30.7,
+"Close": 30.79,
+"Volume": 34005
+},
+{
+"Date": 20091222,
+"Ticker": "ADM",
+"Open": 30.86,
+"High": 31.13,
+"Low": 30.67,
+"Close": 30.8,
+"Volume": 26772
+},
+{
+"Date": 20091223,
+"Ticker": "ADM",
+"Open": 30.82,
+"High": 31.47,
+"Low": 30.8,
+"Close": 31.33,
+"Volume": 26460
+},
+{
+"Date": 20091224,
+"Ticker": "ADM",
+"Open": 31.43,
+"High": 31.685,
+"Low": 31.27,
+"Close": 31.57,
+"Volume": 10252
+},
+{
+"Date": 20091228,
+"Ticker": "ADM",
+"Open": 31.56,
+"High": 31.75,
+"Low": 31.44,
+"Close": 31.63,
+"Volume": 15910
+},
+{
+"Date": 20091229,
+"Ticker": "ADM",
+"Open": 31.65,
+"High": 31.89,
+"Low": 31.48,
+"Close": 31.57,
+"Volume": 21816
+},
+{
+"Date": 20091230,
+"Ticker": "ADM",
+"Open": 31.43,
+"High": 31.76,
+"Low": 31.25,
+"Close": 31.73,
+"Volume": 17890
+},
+{
+"Date": 20091231,
+"Ticker": "ADM",
+"Open": 31.71,
+"High": 31.84,
+"Low": 31.3,
+"Close": 31.31,
+"Volume": 19576
+},
+{
+"Date": 20100104,
+"Ticker": "ADM",
+"Open": 31.48,
+"High": 31.84,
+"Low": 31.33,
+"Close": 31.47,
+"Volume": 34724
+},
+{
+"Date": 20100105,
+"Ticker": "ADM",
+"Open": 31.55,
+"High": 31.77,
+"Low": 31.4,
+"Close": 31.64,
+"Volume": 34586
+},
+{
+"Date": 20100106,
+"Ticker": "ADM",
+"Open": 31.6,
+"High": 31.89,
+"Low": 31.43,
+"Close": 31.56,
+"Volume": 37458
+},
+{
+"Date": 20100107,
+"Ticker": "ADM",
+"Open": 31.55,
+"High": 31.7,
+"Low": 31.05,
+"Close": 31.23,
+"Volume": 72320
+},
+{
+"Date": 20100108,
+"Ticker": "ADM",
+"Open": 31.12,
+"High": 31.19,
+"Low": 30.52,
+"Close": 30.84,
+"Volume": 62646
+},
+{
+"Date": 20100111,
+"Ticker": "ADM",
+"Open": 30.97,
+"High": 31.32,
+"Low": 30.6,
+"Close": 30.86,
+"Volume": 50195
+},
+{
+"Date": 20100112,
+"Ticker": "ADM",
+"Open": 30.68,
+"High": 30.86,
+"Low": 30.32,
+"Close": 30.53,
+"Volume": 42787
+},
+{
+"Date": 20100113,
+"Ticker": "ADM",
+"Open": 30.64,
+"High": 30.83,
+"Low": 30.38,
+"Close": 30.66,
+"Volume": 33365
+},
+{
+"Date": 20100114,
+"Ticker": "ADM",
+"Open": 30.58,
+"High": 30.97,
+"Low": 30.5,
+"Close": 30.74,
+"Volume": 32339
+},
+{
+"Date": 20100115,
+"Ticker": "ADM",
+"Open": 30.77,
+"High": 30.97,
+"Low": 30.3,
+"Close": 30.54,
+"Volume": 36936
+},
+{
+"Date": 20100119,
+"Ticker": "ADM",
+"Open": 30.5,
+"High": 30.88,
+"Low": 30.43,
+"Close": 30.54,
+"Volume": 43359
+},
+{
+"Date": 20100120,
+"Ticker": "ADM",
+"Open": 31.03,
+"High": 31.19,
+"Low": 30.65,
+"Close": 30.9,
+"Volume": 77353
+},
+{
+"Date": 20100121,
+"Ticker": "ADM",
+"Open": 30.94,
+"High": 30.98,
+"Low": 30.41,
+"Close": 30.44,
+"Volume": 86860
+},
+{
+"Date": 20100122,
+"Ticker": "ADM",
+"Open": 30.33,
+"High": 30.9,
+"Low": 30.07,
+"Close": 30.47,
+"Volume": 62707
+},
+{
+"Date": 20100125,
+"Ticker": "ADM",
+"Open": 30.71,
+"High": 30.71,
+"Low": 29.7,
+"Close": 29.77,
+"Volume": 63676
+},
+{
+"Date": 20100126,
+"Ticker": "ADM",
+"Open": 29.65,
+"High": 29.77,
+"Low": 29.53,
+"Close": 29.63,
+"Volume": 50092
+},
+{
+"Date": 20100127,
+"Ticker": "ADM",
+"Open": 29.61,
+"High": 29.89,
+"Low": 29.52,
+"Close": 29.75,
+"Volume": 51284
+},
+{
+"Date": 20100128,
+"Ticker": "ADM",
+"Open": 29.79,
+"High": 30.19,
+"Low": 29.75,
+"Close": 29.95,
+"Volume": 73792
+},
+{
+"Date": 20100129,
+"Ticker": "ADM",
+"Open": 30.12,
+"High": 30.31,
+"Low": 29.654,
+"Close": 29.97,
+"Volume": 65803
+},
+{
+"Date": 20100201,
+"Ticker": "ADM",
+"Open": 30.07,
+"High": 30.18,
+"Low": 29.65,
+"Close": 30.16,
+"Volume": 59221
+},
+{
+"Date": 20100202,
+"Ticker": "ADM",
+"Open": 30.42,
+"High": 31.8,
+"Low": 30.37,
+"Close": 31.63,
+"Volume": 100662
+},
+{
+"Date": 20100203,
+"Ticker": "ADM",
+"Open": 31.55,
+"High": 31.76,
+"Low": 30.91,
+"Close": 31.18,
+"Volume": 59605
+},
+{
+"Date": 20100204,
+"Ticker": "ADM",
+"Open": 30.9,
+"High": 30.97,
+"Low": 30.03,
+"Close": 30.06,
+"Volume": 69398
+},
+{
+"Date": 20100205,
+"Ticker": "ADM",
+"Open": 30.3,
+"High": 30.83,
+"Low": 30.08,
+"Close": 30.61,
+"Volume": 74664
+},
+{
+"Date": 20100208,
+"Ticker": "ADM",
+"Open": 30.61,
+"High": 30.74,
+"Low": 29.85,
+"Close": 29.89,
+"Volume": 66111
+},
+{
+"Date": 20100209,
+"Ticker": "ADM",
+"Open": 30.16,
+"High": 30.28,
+"Low": 29.57,
+"Close": 29.91,
+"Volume": 82412
+},
+{
+"Date": 20100210,
+"Ticker": "ADM",
+"Open": 29.96,
+"High": 30.11,
+"Low": 29.75,
+"Close": 29.99,
+"Volume": 47992
+},
+{
+"Date": 20100211,
+"Ticker": "ADM",
+"Open": 29.88,
+"High": 30.37,
+"Low": 29.5,
+"Close": 30.03,
+"Volume": 57445
+},
+{
+"Date": 20100212,
+"Ticker": "ADM",
+"Open": 29.68,
+"High": 29.93,
+"Low": 29.46,
+"Close": 29.77,
+"Volume": 50908
+},
+{
+"Date": 20100216,
+"Ticker": "ADM",
+"Open": 29.89,
+"High": 30,
+"Low": 29.25,
+"Close": 29.48,
+"Volume": 73842
+},
+{
+"Date": 20100217,
+"Ticker": "ADM",
+"Open": 29.62,
+"High": 29.89,
+"Low": 29.56,
+"Close": 29.88,
+"Volume": 46118
+},
+{
+"Date": 20100218,
+"Ticker": "ADM",
+"Open": 29.72,
+"High": 30.04,
+"Low": 29.685,
+"Close": 29.97,
+"Volume": 36795
+},
+{
+"Date": 20100219,
+"Ticker": "ADM",
+"Open": 29.86,
+"High": 30.05,
+"Low": 29.58,
+"Close": 29.95,
+"Volume": 38974
+},
+{
+"Date": 20100222,
+"Ticker": "ADM",
+"Open": 29.83,
+"High": 30.05,
+"Low": 29.65,
+"Close": 29.81,
+"Volume": 36197
+},
+{
+"Date": 20100223,
+"Ticker": "ADM",
+"Open": 29.81,
+"High": 29.825,
+"Low": 29.46,
+"Close": 29.62,
+"Volume": 58192
+},
+{
+"Date": 20100224,
+"Ticker": "ADM",
+"Open": 29.62,
+"High": 29.86,
+"Low": 29.43,
+"Close": 29.57,
+"Volume": 46074
+},
+{
+"Date": 20100225,
+"Ticker": "ADM",
+"Open": 29.3,
+"High": 29.47,
+"Low": 29.08,
+"Close": 29.47,
+"Volume": 47014
+},
+{
+"Date": 20100226,
+"Ticker": "ADM",
+"Open": 29.5,
+"High": 29.57,
+"Low": 29.15,
+"Close": 29.36,
+"Volume": 34874
+},
+{
+"Date": 20100301,
+"Ticker": "ADM",
+"Open": 29.49,
+"High": 29.75,
+"Low": 29.44,
+"Close": 29.66,
+"Volume": 27326
+},
+{
+"Date": 20100302,
+"Ticker": "ADM",
+"Open": 29.73,
+"High": 30.25,
+"Low": 29.66,
+"Close": 29.85,
+"Volume": 44221
+},
+{
+"Date": 20100303,
+"Ticker": "ADM",
+"Open": 29.99,
+"High": 30.06,
+"Low": 29.66,
+"Close": 29.78,
+"Volume": 38915
+},
+{
+"Date": 20100304,
+"Ticker": "ADM",
+"Open": 29.84,
+"High": 30.01,
+"Low": 29.67,
+"Close": 30,
+"Volume": 35039
+},
+{
+"Date": 20100305,
+"Ticker": "ADM",
+"Open": 30,
+"High": 30.7,
+"Low": 29.96,
+"Close": 30.62,
+"Volume": 50478
+},
+{
+"Date": 20100308,
+"Ticker": "ADM",
+"Open": 30.67,
+"High": 30.8,
+"Low": 30.34,
+"Close": 30.57,
+"Volume": 27702
+},
+{
+"Date": 20100309,
+"Ticker": "ADM",
+"Open": 30.48,
+"High": 30.68,
+"Low": 30.39,
+"Close": 30.51,
+"Volume": 44765
+},
+{
+"Date": 20100310,
+"Ticker": "ADM",
+"Open": 30.56,
+"High": 30.63,
+"Low": 30.06,
+"Close": 30.24,
+"Volume": 44287
+},
+{
+"Date": 20100311,
+"Ticker": "ADM",
+"Open": 30.07,
+"High": 30.17,
+"Low": 29.33,
+"Close": 29.44,
+"Volume": 85556
+},
+{
+"Date": 20100312,
+"Ticker": "ADM",
+"Open": 29.74,
+"High": 29.76,
+"Low": 28.56,
+"Close": 28.66,
+"Volume": 77003
+},
+{
+"Date": 20100315,
+"Ticker": "ADM",
+"Open": 28.78,
+"High": 28.83,
+"Low": 28.45,
+"Close": 28.61,
+"Volume": 49438
+},
+{
+"Date": 20100316,
+"Ticker": "ADM",
+"Open": 28.99,
+"High": 28.99,
+"Low": 28.31,
+"Close": 28.59,
+"Volume": 48223
+},
+{
+"Date": 20100317,
+"Ticker": "ADM",
+"Open": 28.6,
+"High": 29.1,
+"Low": 28.54,
+"Close": 29.1,
+"Volume": 53983
+},
+{
+"Date": 20100318,
+"Ticker": "ADM",
+"Open": 29.18,
+"High": 29.25,
+"Low": 28.81,
+"Close": 29.24,
+"Volume": 58841
+},
+{
+"Date": 20100319,
+"Ticker": "ADM",
+"Open": 29.24,
+"High": 29.4,
+"Low": 28.63,
+"Close": 29.09,
+"Volume": 69607
+},
+{
+"Date": 20100322,
+"Ticker": "ADM",
+"Open": 28.88,
+"High": 29.33,
+"Low": 28.76,
+"Close": 29.33,
+"Volume": 40847
+},
+{
+"Date": 20100323,
+"Ticker": "ADM",
+"Open": 29.28,
+"High": 29.36,
+"Low": 28.97,
+"Close": 29.32,
+"Volume": 48182
+},
+{
+"Date": 20100324,
+"Ticker": "ADM",
+"Open": 29.19,
+"High": 29.19,
+"Low": 28.12,
+"Close": 28.5,
+"Volume": 89286
+},
+{
+"Date": 20100325,
+"Ticker": "ADM",
+"Open": 28.66,
+"High": 28.74,
+"Low": 28.24,
+"Close": 28.26,
+"Volume": 60654
+},
+{
+"Date": 20100326,
+"Ticker": "ADM",
+"Open": 28.45,
+"High": 28.56,
+"Low": 28.06,
+"Close": 28.42,
+"Volume": 64386
+},
+{
+"Date": 20100329,
+"Ticker": "ADM",
+"Open": 29.08,
+"High": 29.13,
+"Low": 28.69,
+"Close": 29.03,
+"Volume": 74543
+},
+{
+"Date": 20100330,
+"Ticker": "ADM",
+"Open": 29,
+"High": 29.09,
+"Low": 28.64,
+"Close": 28.93,
+"Volume": 55230
+},
+{
+"Date": 20100331,
+"Ticker": "ADM",
+"Open": 28.91,
+"High": 29.02,
+"Low": 28.52,
+"Close": 28.9,
+"Volume": 46667
+},
+{
+"Date": 20100401,
+"Ticker": "ADM",
+"Open": 28.97,
+"High": 29.2,
+"Low": 28.89,
+"Close": 29.11,
+"Volume": 37442
+},
+{
+"Date": 20100405,
+"Ticker": "ADM",
+"Open": 29.26,
+"High": 29.26,
+"Low": 28.32,
+"Close": 28.46,
+"Volume": 73851
+},
+{
+"Date": 20100406,
+"Ticker": "ADM",
+"Open": 28.46,
+"High": 28.48,
+"Low": 28.12,
+"Close": 28.23,
+"Volume": 76599
+},
+{
+"Date": 20100407,
+"Ticker": "ADM",
+"Open": 28.11,
+"High": 28.34,
+"Low": 28.03,
+"Close": 28.25,
+"Volume": 66212
+},
+{
+"Date": 20100408,
+"Ticker": "ADM",
+"Open": 28.13,
+"High": 28.29,
+"Low": 27.97,
+"Close": 28.06,
+"Volume": 64462
+},
+{
+"Date": 20100409,
+"Ticker": "ADM",
+"Open": 28.09,
+"High": 28.3,
+"Low": 28.04,
+"Close": 28.26,
+"Volume": 41407
+},
+{
+"Date": 20100412,
+"Ticker": "ADM",
+"Open": 28.07,
+"High": 28.37,
+"Low": 28.05,
+"Close": 28.37,
+"Volume": 38792
+},
+{
+"Date": 20100413,
+"Ticker": "ADM",
+"Open": 28.36,
+"High": 28.5,
+"Low": 28.03,
+"Close": 28.18,
+"Volume": 47868
+},
+{
+"Date": 20100414,
+"Ticker": "ADM",
+"Open": 28.36,
+"High": 28.36,
+"Low": 28.08,
+"Close": 28.31,
+"Volume": 61771
+},
+{
+"Date": 20100415,
+"Ticker": "ADM",
+"Open": 28.32,
+"High": 28.52,
+"Low": 28.15,
+"Close": 28.34,
+"Volume": 46547
+},
+{
+"Date": 20100416,
+"Ticker": "ADM",
+"Open": 28.29,
+"High": 28.54,
+"Low": 28.1,
+"Close": 28.25,
+"Volume": 54398
+},
+{
+"Date": 20100419,
+"Ticker": "ADM",
+"Open": 28.19,
+"High": 28.4,
+"Low": 28.05,
+"Close": 28.26,
+"Volume": 36102
+},
+{
+"Date": 20100420,
+"Ticker": "ADM",
+"Open": 28.31,
+"High": 29.02,
+"Low": 28.19,
+"Close": 28.92,
+"Volume": 76955
+},
+{
+"Date": 20100421,
+"Ticker": "ADM",
+"Open": 29,
+"High": 29.1,
+"Low": 28.65,
+"Close": 28.77,
+"Volume": 51841
+},
+{
+"Date": 20100422,
+"Ticker": "ADM",
+"Open": 28.63,
+"High": 28.63,
+"Low": 28.26,
+"Close": 28.46,
+"Volume": 50115
+},
+{
+"Date": 20100423,
+"Ticker": "ADM",
+"Open": 28.43,
+"High": 28.52,
+"Low": 28.2,
+"Close": 28.5,
+"Volume": 40392
+},
+{
+"Date": 20100426,
+"Ticker": "ADM",
+"Open": 28.59,
+"High": 28.7,
+"Low": 28.39,
+"Close": 28.44,
+"Volume": 38190
+},
+{
+"Date": 20100427,
+"Ticker": "ADM",
+"Open": 28.28,
+"High": 28.5,
+"Low": 27.85,
+"Close": 27.88,
+"Volume": 67928
+},
+{
+"Date": 20100428,
+"Ticker": "ADM",
+"Open": 27.95,
+"High": 28.16,
+"Low": 27.88,
+"Close": 28.01,
+"Volume": 76123
+},
+{
+"Date": 20100429,
+"Ticker": "ADM",
+"Open": 28.19,
+"High": 28.31,
+"Low": 27.97,
+"Close": 28.12,
+"Volume": 90388
+},
+{
+"Date": 20100430,
+"Ticker": "ADM",
+"Open": 28.19,
+"High": 28.38,
+"Low": 27.93,
+"Close": 27.94,
+"Volume": 69248
+},
+{
+"Date": 20100503,
+"Ticker": "ADM",
+"Open": 28.23,
+"High": 28.25,
+"Low": 27.65,
+"Close": 27.72,
+"Volume": 86947
+},
+{
+"Date": 20100504,
+"Ticker": "ADM",
+"Open": 27.54,
+"High": 27.65,
+"Low": 26.03,
+"Close": 26.22,
+"Volume": 162073
+},
+{
+"Date": 20100505,
+"Ticker": "ADM",
+"Open": 26.19,
+"High": 26.63,
+"Low": 25.76,
+"Close": 26.45,
+"Volume": 111127
+},
+{
+"Date": 20100506,
+"Ticker": "ADM",
+"Open": 26.36,
+"High": 26.43,
+"Low": 24.77,
+"Close": 25.7,
+"Volume": 93423
+},
+{
+"Date": 20100507,
+"Ticker": "ADM",
+"Open": 25.89,
+"High": 26.27,
+"Low": 25.56,
+"Close": 25.94,
+"Volume": 118613
+},
+{
+"Date": 20100510,
+"Ticker": "ADM",
+"Open": 26.69,
+"High": 26.86,
+"Low": 26.38,
+"Close": 26.61,
+"Volume": 62353
+},
+{
+"Date": 20100511,
+"Ticker": "ADM",
+"Open": 26.46,
+"High": 27.2,
+"Low": 26.25,
+"Close": 27.02,
+"Volume": 77113
+},
+{
+"Date": 20100512,
+"Ticker": "ADM",
+"Open": 27.03,
+"High": 27.55,
+"Low": 26.92,
+"Close": 27.5,
+"Volume": 60435
+},
+{
+"Date": 20100513,
+"Ticker": "ADM",
+"Open": 27.4,
+"High": 27.58,
+"Low": 26.99,
+"Close": 27.15,
+"Volume": 46444
+},
+{
+"Date": 20100514,
+"Ticker": "ADM",
+"Open": 27,
+"High": 27.12,
+"Low": 26.67,
+"Close": 26.77,
+"Volume": 48005
+},
+{
+"Date": 20100517,
+"Ticker": "ADM",
+"Open": 26.84,
+"High": 27.24,
+"Low": 26.615,
+"Close": 27.17,
+"Volume": 59818
+},
+{
+"Date": 20100518,
+"Ticker": "ADM",
+"Open": 27.25,
+"High": 27.42,
+"Low": 26.69,
+"Close": 26.71,
+"Volume": 53257
+},
+{
+"Date": 20100519,
+"Ticker": "ADM",
+"Open": 26.6,
+"High": 26.79,
+"Low": 26.4,
+"Close": 26.67,
+"Volume": 43846
+},
+{
+"Date": 20100520,
+"Ticker": "ADM",
+"Open": 26.17,
+"High": 26.17,
+"Low": 25.35,
+"Close": 25.38,
+"Volume": 82278
+},
+{
+"Date": 20100521,
+"Ticker": "ADM",
+"Open": 24.87,
+"High": 25.63,
+"Low": 24.85,
+"Close": 25.41,
+"Volume": 78300
+},
+{
+"Date": 20100524,
+"Ticker": "ADM",
+"Open": 25.28,
+"High": 25.28,
+"Low": 24.91,
+"Close": 24.92,
+"Volume": 60874
+},
+{
+"Date": 20100525,
+"Ticker": "ADM",
+"Open": 24.52,
+"High": 24.73,
+"Low": 24.22,
+"Close": 24.7,
+"Volume": 86774
+},
+{
+"Date": 20100526,
+"Ticker": "ADM",
+"Open": 24.9,
+"High": 25.07,
+"Low": 24.72,
+"Close": 24.87,
+"Volume": 95005
+},
+{
+"Date": 20100527,
+"Ticker": "ADM",
+"Open": 25.08,
+"High": 25.44,
+"Low": 24.98,
+"Close": 25.43,
+"Volume": 54306
+},
+{
+"Date": 20100528,
+"Ticker": "ADM",
+"Open": 25.42,
+"High": 25.55,
+"Low": 25.2,
+"Close": 25.27,
+"Volume": 63495
+},
+{
+"Date": 20100601,
+"Ticker": "ADM",
+"Open": 25.05,
+"High": 25.48,
+"Low": 24.82,
+"Close": 25,
+"Volume": 46366
+},
+{
+"Date": 20100602,
+"Ticker": "ADM",
+"Open": 25.12,
+"High": 25.57,
+"Low": 25.02,
+"Close": 25.56,
+"Volume": 49796
+},
+{
+"Date": 20100603,
+"Ticker": "ADM",
+"Open": 25.54,
+"High": 25.62,
+"Low": 25.34,
+"Close": 25.53,
+"Volume": 29637
+},
+{
+"Date": 20100604,
+"Ticker": "ADM",
+"Open": 25.25,
+"High": 25.3,
+"Low": 24.8,
+"Close": 24.825,
+"Volume": 59351
+},
+{
+"Date": 20100607,
+"Ticker": "ADM",
+"Open": 24.8,
+"High": 25,
+"Low": 24.5,
+"Close": 24.51,
+"Volume": 41356
+},
+{
+"Date": 20100608,
+"Ticker": "ADM",
+"Open": 24.58,
+"High": 24.9,
+"Low": 24.42,
+"Close": 24.89,
+"Volume": 49111
+},
+{
+"Date": 20100609,
+"Ticker": "ADM",
+"Open": 25.05,
+"High": 25.44,
+"Low": 24.84,
+"Close": 24.93,
+"Volume": 47559
+},
+{
+"Date": 20100610,
+"Ticker": "ADM",
+"Open": 25.24,
+"High": 25.63,
+"Low": 25.09,
+"Close": 25.39,
+"Volume": 43983
+},
+{
+"Date": 20100611,
+"Ticker": "ADM",
+"Open": 25.19,
+"High": 25.66,
+"Low": 25.01,
+"Close": 25.64,
+"Volume": 43258
+},
+{
+"Date": 20100614,
+"Ticker": "ADM",
+"Open": 25.74,
+"High": 25.91,
+"Low": 25.61,
+"Close": 25.65,
+"Volume": 31975
+},
+{
+"Date": 20100615,
+"Ticker": "ADM",
+"Open": 25.86,
+"High": 26.72,
+"Low": 25.8,
+"Close": 26.71,
+"Volume": 62282
+},
+{
+"Date": 20100616,
+"Ticker": "ADM",
+"Open": 26.54,
+"High": 26.78,
+"Low": 26.46,
+"Close": 26.78,
+"Volume": 58535
+},
+{
+"Date": 20100617,
+"Ticker": "ADM",
+"Open": 26.86,
+"High": 27.66,
+"Low": 26.85,
+"Close": 27.51,
+"Volume": 122514
+},
+{
+"Date": 20100618,
+"Ticker": "ADM",
+"Open": 27.47,
+"High": 27.6325,
+"Low": 27.17,
+"Close": 27.19,
+"Volume": 67442
+},
+{
+"Date": 20100621,
+"Ticker": "ADM",
+"Open": 27.49,
+"High": 27.58,
+"Low": 26.99,
+"Close": 27.16,
+"Volume": 51500
+},
+{
+"Date": 20100622,
+"Ticker": "ADM",
+"Open": 27.14,
+"High": 27.14,
+"Low": 26.59,
+"Close": 26.65,
+"Volume": 60625
+},
+{
+"Date": 20100623,
+"Ticker": "ADM",
+"Open": 26.44,
+"High": 27.19,
+"Low": 26.44,
+"Close": 26.99,
+"Volume": 49679
+},
+{
+"Date": 20100624,
+"Ticker": "ADM",
+"Open": 26.86,
+"High": 27.1,
+"Low": 26.28,
+"Close": 26.46,
+"Volume": 75175
+},
+{
+"Date": 20100625,
+"Ticker": "ADM",
+"Open": 26.47,
+"High": 26.61,
+"Low": 26.27,
+"Close": 26.34,
+"Volume": 92098
+},
+{
+"Date": 20100628,
+"Ticker": "ADM",
+"Open": 26.34,
+"High": 26.87,
+"Low": 26.28,
+"Close": 26.65,
+"Volume": 42514
+},
+{
+"Date": 20100629,
+"Ticker": "ADM",
+"Open": 26.29,
+"High": 26.48,
+"Low": 25.89,
+"Close": 26.01,
+"Volume": 74711
+},
+{
+"Date": 20100630,
+"Ticker": "ADM",
+"Open": 26.03,
+"High": 26.11,
+"Low": 25.67,
+"Close": 25.82,
+"Volume": 66240
+},
+{
+"Date": 20100701,
+"Ticker": "ADM",
+"Open": 26.03,
+"High": 26.19,
+"Low": 25.51,
+"Close": 25.76,
+"Volume": 53076
+},
+{
+"Date": 20100702,
+"Ticker": "ADM",
+"Open": 25.8,
+"High": 25.94,
+"Low": 25.02,
+"Close": 25.5,
+"Volume": 62097
+},
+{
+"Date": 20100706,
+"Ticker": "ADM",
+"Open": 25.72,
+"High": 26.06,
+"Low": 25.58,
+"Close": 25.78,
+"Volume": 44923
+},
+{
+"Date": 20100707,
+"Ticker": "ADM",
+"Open": 25.94,
+"High": 26.38,
+"Low": 25.76,
+"Close": 26.34,
+"Volume": 55930
+},
+{
+"Date": 20100708,
+"Ticker": "ADM",
+"Open": 26.63,
+"High": 26.76,
+"Low": 26.48,
+"Close": 26.71,
+"Volume": 39853
+},
+{
+"Date": 20100709,
+"Ticker": "ADM",
+"Open": 26.71,
+"High": 26.8029,
+"Low": 26.21,
+"Close": 26.72,
+"Volume": 47679
+},
+{
+"Date": 20100712,
+"Ticker": "ADM",
+"Open": 26.61,
+"High": 26.72,
+"Low": 26.49,
+"Close": 26.68,
+"Volume": 27303
+},
+{
+"Date": 20100713,
+"Ticker": "ADM",
+"Open": 26.87,
+"High": 27.25,
+"Low": 26.8,
+"Close": 26.98,
+"Volume": 46911
+},
+{
+"Date": 20100714,
+"Ticker": "ADM",
+"Open": 26.78,
+"High": 27.12,
+"Low": 26.68,
+"Close": 26.9,
+"Volume": 31951
+},
+{
+"Date": 20100715,
+"Ticker": "ADM",
+"Open": 26.85,
+"High": 26.99,
+"Low": 26.54,
+"Close": 26.87,
+"Volume": 36167
+},
+{
+"Date": 20100716,
+"Ticker": "ADM",
+"Open": 27.05,
+"High": 27.5,
+"Low": 26.73,
+"Close": 26.74,
+"Volume": 70208
+},
+{
+"Date": 20100719,
+"Ticker": "ADM",
+"Open": 26.95,
+"High": 26.95,
+"Low": 26.6,
+"Close": 26.78,
+"Volume": 37570
+},
+{
+"Date": 20100720,
+"Ticker": "ADM",
+"Open": 26.6,
+"High": 27.42,
+"Low": 26.57,
+"Close": 27.38,
+"Volume": 36438
+},
+{
+"Date": 20100721,
+"Ticker": "ADM",
+"Open": 27.44,
+"High": 27.44,
+"Low": 26.94,
+"Close": 27.09,
+"Volume": 43487
+},
+{
+"Date": 20100722,
+"Ticker": "ADM",
+"Open": 27.21,
+"High": 27.71,
+"Low": 27.21,
+"Close": 27.45,
+"Volume": 38907
+},
+{
+"Date": 20100723,
+"Ticker": "ADM",
+"Open": 27.46,
+"High": 27.71,
+"Low": 27.33,
+"Close": 27.63,
+"Volume": 51878
+},
+{
+"Date": 20100726,
+"Ticker": "ADM",
+"Open": 27.6,
+"High": 27.98,
+"Low": 27.59,
+"Close": 27.8,
+"Volume": 38431
+},
+{
+"Date": 20100727,
+"Ticker": "ADM",
+"Open": 27.96,
+"High": 28.21,
+"Low": 27.78,
+"Close": 27.84,
+"Volume": 54692
+},
+{
+"Date": 20100728,
+"Ticker": "ADM",
+"Open": 27.87,
+"High": 27.99,
+"Low": 27.6,
+"Close": 27.66,
+"Volume": 35953
+},
+{
+"Date": 20100729,
+"Ticker": "ADM",
+"Open": 27.28,
+"High": 27.45,
+"Low": 26.84,
+"Close": 27,
+"Volume": 117175
+},
+{
+"Date": 20100730,
+"Ticker": "ADM",
+"Open": 26.84,
+"High": 27.535,
+"Low": 26.5,
+"Close": 27.36,
+"Volume": 66193
+},
+{
+"Date": 20100802,
+"Ticker": "ADM",
+"Open": 27.64,
+"High": 28.39,
+"Low": 27.58,
+"Close": 28.32,
+"Volume": 74915
+},
+{
+"Date": 20100803,
+"Ticker": "ADM",
+"Open": 28.6,
+"High": 29.17,
+"Low": 28.41,
+"Close": 28.49,
+"Volume": 72491
+},
+{
+"Date": 20100804,
+"Ticker": "ADM",
+"Open": 28.51,
+"High": 28.75,
+"Low": 28.26,
+"Close": 28.61,
+"Volume": 45577
+},
+{
+"Date": 20100805,
+"Ticker": "ADM",
+"Open": 28.76,
+"High": 30.4,
+"Low": 28.76,
+"Close": 30.25,
+"Volume": 171928
+},
+{
+"Date": 20100806,
+"Ticker": "ADM",
+"Open": 30.41,
+"High": 30.98,
+"Low": 29.97,
+"Close": 30.18,
+"Volume": 128345
+},
+{
+"Date": 20100809,
+"Ticker": "ADM",
+"Open": 30.2,
+"High": 30.64,
+"Low": 29.83,
+"Close": 30.63,
+"Volume": 65903
+},
+{
+"Date": 20100810,
+"Ticker": "ADM",
+"Open": 30.35,
+"High": 30.79,
+"Low": 30.24,
+"Close": 30.64,
+"Volume": 44814
+},
+{
+"Date": 20100811,
+"Ticker": "ADM",
+"Open": 30.03,
+"High": 30.29,
+"Low": 29.79,
+"Close": 29.84,
+"Volume": 52250
+},
+{
+"Date": 20100812,
+"Ticker": "ADM",
+"Open": 29.65,
+"High": 30.62,
+"Low": 29.59,
+"Close": 30.6,
+"Volume": 63388
+},
+{
+"Date": 20100813,
+"Ticker": "ADM",
+"Open": 30.59,
+"High": 30.78,
+"Low": 29.99,
+"Close": 30.05,
+"Volume": 60221
+},
+{
+"Date": 20100816,
+"Ticker": "ADM",
+"Open": 29.89,
+"High": 30.235,
+"Low": 29.69,
+"Close": 30.04,
+"Volume": 50798
+},
+{
+"Date": 20100817,
+"Ticker": "ADM",
+"Open": 30.42,
+"High": 30.96,
+"Low": 30.07,
+"Close": 30.78,
+"Volume": 62427
+},
+{
+"Date": 20100819,
+"Ticker": "ADM",
+"Open": 30.77,
+"High": 30.86,
+"Low": 30.22,
+"Close": 30.23,
+"Volume": 53972
+},
+{
+"Date": 20100820,
+"Ticker": "ADM",
+"Open": 30.17,
+"High": 30.73,
+"Low": 30.133,
+"Close": 30.52,
+"Volume": 56885
+}
+]
