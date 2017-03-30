@@ -30,8 +30,21 @@ Observer.prototype.listen = function (key, val) {
     Object.defineProperty(this.data, key, {
         configurable: true,
         enumerable: true,
-        set: function (newVal) {
-            console.log(this);
+        set: function (newVal) {    //当设置值的时候，this值是obj,遍历observer所有的节点，找到对应的
+            if (typeof this === 'object'){  //observer，执行它对应的eventList里面的方法
+                while(_this.parentAttr){
+                    _this = _this.parentAttr;
+                }
+                list(_this);
+                let target_obj = this;
+                console.log(resultList);
+                for (let i=0;i<resultList.length;i++){
+                    if (resultList[i].data == target_obj){
+                        _this = resultList[i];
+                        break;
+                    }
+                }
+            }
             _this.eventList.emit(key);
             let tempKey = key;
             while (_this.parentAttr) {
@@ -59,9 +72,7 @@ Observer.prototype.listen = function (key, val) {
 
 Observer.prototype.$watch = function (attr, handle) {
     let attrArray = attr.split('.');
-    console.log(attrArray);
     let _this = this;
-    console.log(_this);
     for (let i = 0; i < attrArray.length - 1; i++) {
         for (let j=0; j<_this.childObserver.length;j++){
             if (_this.childObserver[j].data == _this.data[attrArray[i]]){
@@ -93,6 +104,16 @@ Event.prototype.emit = function (attr) {
     }
 };
 
+let resultList = [];
+function list(observer) {   //遍历所有的节点，将他们放入一个数组中
+    resultList.push(observer);
+    if (observer.childObserver){
+        for (let i =0;i<observer.childObserver.length;i++){
+            list(observer.childObserver[i]);
+        }
+    }
+}
+
 let app = new Observer({
     stu: {
         name: {
@@ -108,6 +129,10 @@ let app = new Observer({
     }
 }, null);
 
-app.$watch('stu.name.firstName', function () {
-    console.log('我知道你改变了！');
+app.$watch('a', function () {
+    console.log('我知道a改变了！');
+});
+
+app.$watch('stu.name', function () {
+    console.log('我知道名字改变了')
 });
