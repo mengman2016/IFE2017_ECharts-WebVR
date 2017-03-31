@@ -29,18 +29,19 @@ Observer.prototype.listen = function (key, val) {
     let _this = this;
     Object.defineProperty(this.data, key, {
         configurable: true,
-        enumerable: true,
+        enumerable: true,           //初始化时this值为observer
         set: function (newVal) {    //当设置值的时候，this值是obj,遍历observer所有的节点，找到对应的
             if (typeof this === 'object'){  //observer，执行它对应的eventList里面的方法
                 while(_this.parentAttr){
-                    _this = _this.parentAttr;
+                    _this = _this.parentAttr;   //使_this等于app
                 }
-                list(_this);
+                let observerList = [];
+                list(_this, observerList);
+                console.log(observerList);
                 let target_obj = this;
-                console.log(resultList);
-                for (let i=0;i<resultList.length;i++){
-                    if (resultList[i].data == target_obj){
-                        _this = resultList[i];
+                for (let i=0;i<observerList.length;i++){
+                    if (observerList[i].data == target_obj){
+                        _this = observerList[i];
                         break;
                     }
                 }
@@ -71,7 +72,7 @@ Observer.prototype.listen = function (key, val) {
 };
 
 Observer.prototype.$watch = function (attr, handle) {
-    let attrArray = attr.split('.');
+    let attrArray = attr.split('.');    //当attr为xxx.xxx时，对数据调整
     let _this = this;
     for (let i = 0; i < attrArray.length - 1; i++) {
         for (let j=0; j<_this.childObserver.length;j++){
@@ -104,12 +105,11 @@ Event.prototype.emit = function (attr) {
     }
 };
 
-let resultList = [];
-function list(observer) {   //遍历所有的节点，将他们放入一个数组中
-    resultList.push(observer);
+function list(observer, arr) {   //遍历所有的节点，将他们放入一个数组中
+    arr.push(observer);
     if (observer.childObserver){
         for (let i =0;i<observer.childObserver.length;i++){
-            list(observer.childObserver[i]);
+            list(observer.childObserver[i], arr);
         }
     }
 }
