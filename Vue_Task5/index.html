@@ -6,7 +6,9 @@
 </head>
 <body>
 <div id="app">
-    控制台中用app.user.xxx = xxx 来设置下面的值<br>
+    控制台中用app.user.xxx = xxx 来设置下面的值,<br>
+    也可以使用app.user = {name:'scsscsd', age:165}来设置，<br>
+    但是这么使用之后就不能使用app.user.xxx = xxx来更新dom了
     <p>姓名：{{user.name}}</p>
     <p>年龄：{{user.age}}</p>
 </div>

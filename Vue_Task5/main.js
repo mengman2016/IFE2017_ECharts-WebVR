@@ -33,6 +33,9 @@ Observer.prototype.listen = function (key, val) {
         set: function (newVal) {            //当正式设置值的时候，只执行set里面的内容
                                             // 这是this值是obj,遍历observer所有的节点，找到对应的
             if (typeof this === 'object'){  //observer，执行它对应的eventList里面的方法
+                if (typeof newVal === 'object') {
+                    new Observer(newVal);
+                }
                 val = newVal;
                 while(_this.parentAttr){
                     _this = _this.parentAttr;   //使_this等于app
@@ -61,9 +64,6 @@ Observer.prototype.listen = function (key, val) {
                     }
                 }
             }
-            if (typeof newVal === 'object') {
-                new Observer(newVal);
-            }
         },
         get: function () {
             return val;
@@ -90,9 +90,8 @@ function Event() {
 }
 
 Event.prototype.on = function (attr, handle) {
-    if (this.events[attr]) {
-        this.events[attr].push(handle);
-    } else {
+    if (this.events[attr]) {        //如果已经监听过了，return,因为我们只有一个handle，不需要
+    } else {                        //一个属性触发对应多个监听的方法
         this.events[attr] = [handle];
     }
 };
@@ -111,11 +110,22 @@ function Vue(obj) {
     let baseHtml = el.innerHTML;
     let observer = new Observer(obj.data, null);
     let watchAttr = _this.updateDom(obj, baseHtml);    //需要被监听的属性,以{{xxx}}形式存在
+    console.log(watchAttr);
     watchAttr.forEach((item)=>{
-         observer.$watch(item.slice(2, item.length-2), function () {
-             _this.updateDom(obj, baseHtml);
-         });
+        let attrArr = item.slice(2, item.length-2).split('.');
+        let target = null;
+        for (let x =0; x<attrArr.length; x++){
+             if (target === null){
+                 target = attrArr[x]
+             }else{
+                 target += ('.'+attrArr[x]);
+             }
+            observer.$watch(target, function () {
+                _this.updateDom(obj, baseHtml);
+            });
+         }
     });
+
     return observer.data;
 }
 
